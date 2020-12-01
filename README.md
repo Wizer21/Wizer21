@@ -6,9 +6,8 @@ I'am a young passionate developer, working day and night to become the best ! :m
 # RoadMap :stars:
 - [X] C++
 - [X] Qt
-- [ ] Python :hourglass_flowing_sand:
-- [ ] Django :hourglass_flowing_sand:
-- [ ] Ux
-- [ ] C
+- [ ] JavaScript :hourglass_flowing_sand:
+- [ ] ReactNative :hourglass_flowing_sand:
+- [ ] Python 
 - [ ] Microprocessor
 - [ ] Robotics
