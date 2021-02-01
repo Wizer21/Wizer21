@@ -3,7 +3,7 @@
 Welcome !
 I'am a young passionate developer, working day and night to become the best ! :muscle:
 
-You can see my robots on my [youtube](https://youtu.be/DgQnd6pjFc4) channel! :movie_camera:
+You can see my robots on my [youtube](https://www.youtube.com/channel/UCwJnVZhGoA4HdHr3r9BlZqg) channel! :movie_camera:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
